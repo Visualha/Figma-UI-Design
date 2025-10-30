@@ -1,1 +1,4 @@
-# Figma-UI-Design
+# 🎨 Figma Project Link
+
+Here’s the link to our Figma design:
+👉 [Open Figma Design](https://www.figma.com/design/xLeKClUqW6fTKV29xrdIll/G597_P2?node-id=527-533&t=GhcuXtI04WKj4Ohg-1)
